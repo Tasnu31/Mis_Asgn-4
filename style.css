@@ -1,0 +1,68 @@
+
+
+body{
+    background-color: rgb(19, 16, 60);
+    font-family: rw;
+}
+
+h1{
+    font-family: rw2;
+    font-size: 4em;
+    color: black;
+}
+
+.card-title{
+    font-family: rw2;
+    font-size: 3em;
+}
+
+.carousel .carousel-indicators button{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.carousel-caption{
+    top: 0;
+    bottom: auto;
+}
+
+#title{
+    color: rgb(202, 203, 180);
+}
+
+.brown-style{
+    background-color: rgb(147, 144, 139);
+}
+
+.blue-style{
+    background-color: rgb(147, 144, 139);
+}
+
+.purple-style{
+    background-color: rgb(147, 144, 139);
+}
+
+.red-style{
+    background-color: rgb(147, 144, 139);
+}
+
+.white-style{
+    background-color:rgb(147, 144, 139);
+}
+
+.green-style{
+    background-color: rgb(147, 144, 139);
+}
+
+.yellow-style{
+    background-color: rgb(147, 144, 139);
+}
+
+.pink-style{
+    background-color: rgb(147, 144, 139);
+}
+
+footer *{
+    color: white;
+}
